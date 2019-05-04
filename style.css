@@ -1,0 +1,136 @@
+body {
+  background-color: lightgrey;
+  background-image: url("Resources/Assets/Images/neuroscience-2017-7-881x495.jpg");
+  background-repeat: no-repeat;
+}
+
+h1, h3 {
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container {
+  height: 100%;
+}
+
+.navbar   {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+  background-color: blueviolet;
+}
+
+.navbar-brand {
+  font-size: 28px;
+}
+
+.dropdown-item {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+}
+
+.lg-img {
+  width: 900px;
+  height: 600px;
+}
+
+.md-img {
+  width: 600px;
+  height: 400px;
+}
+
+.sm-img {
+  width: 25%;
+  height: 25%;
+}
+
+.xs-img {
+  width: 200px;
+  height: 200px;
+}
+
+.text {
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+}
+
+.btn {
+  background-color: rebeccapurple;
+}
+
+.btn-text {
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: black;
+}
+
+#feat-box {
+  height: 600px;
+}
+
+.thin-black-border {
+  border-color: black; 
+  border-width: 5px; 
+  border-style: solid; 
+  border-radius: 10px;
+}
+
+.contact-well {
+  width: 800px; 
+  height: 600px; 
+  background: rebeccapurple; 
+  margin: 5px; 
+  padding: 0;
+}
+
+.media {
+  width: 400px; 
+  height: 400px; 
+  padding: 15px;
+}
+
+.c-text {
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: black;
+  text-align: center;
+  margin: 0;
+}
+
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+
+.p-thin-black-border {
+  border-color: black; 
+  border-width: 5px; 
+  border-style: solid; 
+  border-radius: 10px;
+}
+
+.p-contact-well {
+  width: 800px; 
+  height: 800px; 
+  background: grey; 
+  margin: 5px; 
+  padding: 0;
+}
+
+.p-media {
+  width: 100px; 
+  height: 100px; 
+  padding: 1px;
+}
+
+.p-text {
+  font-size: 40px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: black;
+  text-align: center;
+  margin: 0;
+}
+
+.text {
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
