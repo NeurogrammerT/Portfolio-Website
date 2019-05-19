@@ -1,6 +1,6 @@
 body {
   background-color: lightgrey;
-  background-image: url("Resources/Assets/Images/neuroscience-2017-7-881x495.jpg");
+  background-image: url("Resources/Assets/Images/bg.jpg");
   background-repeat: no-repeat;
 }
 
@@ -16,7 +16,7 @@ h1, h3 {
 .navbar   {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 20px;
-  background-color: blueviolet;
+  background-color: royalblue;
 }
 
 .navbar-brand {
@@ -55,7 +55,7 @@ h1, h3 {
 }
 
 .btn {
-  background-color: rebeccapurple;
+  background-color: royalblue;
 }
 
 .btn-text {
@@ -78,7 +78,7 @@ h1, h3 {
 .contact-well {
   width: 800px; 
   height: 600px; 
-  background: rebeccapurple; 
+  background: royalblue; 
   margin: 5px; 
   padding: 0;
 }
